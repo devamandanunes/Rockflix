@@ -1,7 +1,7 @@
 # Rockflix
 Projeto "Recriando interface da Netflix" Curso - DIO 
 
-Descrição do projeto: Utilizando as linguagens HTML, CSS e JavaScript eu recriei uma interface parecida com a da Netflix para um site de filmes, séries e documentários sobre rock com 4 páginas, além da contando com a inicial. Os códigos foram comitados no Vscode e também utilizei o Jquery e bootstrap. 
+Descrição do projeto: Utilizando as linguagens HTML, CSS e JavaScript eu recriei uma interface parecida com a da Netflix para um site de filmes, séries e documentários sobre rock com 4 páginas contando com a inicial. Os códigos foram comitados no Vscode e também utilizei o Jquery e bootstrap. 
 
 Tive dificuldade para entender como poderia linkar cada página nova de acordo com os nomes disponíveis no menu, mas quando consegui foi super prático fazer os demais.
 
